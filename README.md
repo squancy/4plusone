@@ -11,3 +11,6 @@ Since the player always has the opportunity to start the game even hardcore mode
 
 ## Live demo
 You can play with the game at <a href='https://pearscom.com/games/m1ndfck/index.html'>https://pearscom.com/games/m1ndfck/index.html</a>.
+
+## Contribute
+If you have any questions or suggestions just drop me with at email at <a href='mailto:mark@pearscom.com'>mark@pearscom.com</a>.
